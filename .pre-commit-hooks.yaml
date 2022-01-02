@@ -1,0 +1,9 @@
+-   id: import-sort
+    name: import-sort
+    entry: import-sort
+    language: node
+    'types': [javascript]
+    args: ["-i"]
+    require_serial: false
+    additional_dependencies: ["import-sort@0.1.0"]
+    minimum_pre_commit_version: '0'
