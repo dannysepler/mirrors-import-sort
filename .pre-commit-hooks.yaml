@@ -1,6 +1,6 @@
 -   id: import-sort
     name: import-sort
-    entry: import-sort
+    entry: import-sort-cli
     language: node
     'types': [javascript]
     args: ["-i"]
